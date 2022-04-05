@@ -7,6 +7,10 @@
 *.zip
 *.tar.gz
 *.rar
+
+#dirtory
+out/
+
 #maven ignore
 target/
 build/
